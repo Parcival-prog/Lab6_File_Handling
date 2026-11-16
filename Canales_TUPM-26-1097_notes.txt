@@ -1,0 +1,5 @@
+Student: Canales
+Student ID: TUPM-26-1097
+Seed digit: 7
+ID sum: 25
+Verification value: 182

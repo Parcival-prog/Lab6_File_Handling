@@ -1,0 +1,12 @@
+PYTHON FILE_HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Canales
+Student ID: TUPM-26-1097
+Seed Digit: 7
+ID sum: 25
+Verification Value: 182
+Dataset Sample Size: 75
+Valid Records: 75
+Average Global Active Power: 4.040
+JSON File: Canales_TUPM-26-1097_record.json
+Backup File: Canales_TUPM-26-1097_record.csv
