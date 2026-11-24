@@ -1,0 +1,29 @@
+CYBERSECURITY INCIDENT REPORT
+-----------------------------
+Target Year: 2022
+Total Dataset Records: 3000
+Incidents in Target Year: 318
+
+INCIDENT COUNT PER ATTACK TYPE
+DDoS: 54
+Malware: 64
+Man-in-the-Middle: 41
+Phishing: 57
+Ransomware: 56
+SQL Injection: 46
+
+Total Financial Loss: 15870.86 million USD
+Average Financial Loss: 49.91 million USD
+
+FIVE COSTLIEST INCIDENTS
+1. Phishing - 98.47 million USD
+2. SQL Injection - 98.46 million USD
+3. Phishing - 98.06 million USD
+4. Phishing - 97.56 million USD
+5. Malware - 97.32 million USD
+
+Filtered CSV: activity3-data\filtered_incidents.csv
+JSON File: activity3-data\top_5_incidents.json
+Backup Verified: True
+CSV Count Verified: True
+Report File: activity3-data\incident_report.txt

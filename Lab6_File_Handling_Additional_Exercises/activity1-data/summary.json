@@ -1,0 +1,8 @@
+{
+    "Records Processed": 1025,
+    "Target Status Class": "5xx",
+    "Records in Target Class": 0,
+    "Count per Status Code": {},
+    "Five Most Requested URLs": [],
+    "Filtered CSV File": "activity1-data\\filtered_log.csv"
+}

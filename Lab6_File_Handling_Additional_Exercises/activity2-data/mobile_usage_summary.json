@@ -1,0 +1,14 @@
+{
+    "operating_system": "iOS",
+    "target_behavior_class": 3,
+    "total_records": 700,
+    "matching_os_records": 146,
+    "selected_records": 32,
+    "average_battery_drain": 1492.03,
+    "average_data_usage": 828.09,
+    "exported_records": 32,
+    "count_verification": true,
+    "exported_csv": "activity2-data\\filtered_mobile_usage.csv",
+    "backup_file": "activity2-data\\filtered_mobile_usage_backup.csv",
+    "backup_size_bytes": 973
+}
